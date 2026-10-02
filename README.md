@@ -1,16 +1,37 @@
-## Hi there 👋
+ <h1 align="center">Hi 👋, I'm Swati Swaraj</h1>
+<h3 align="center">Java Full Stack Developer</h3>
 
-<!--
-**SwatiSwaraj12/SwatiSwaraj12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SwatiSwaraj12&color=blueviolet&style=flat-square" alt="Profile Views" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+* 🌱 I’m a **Java Full Stack Developer** passionate about building robust applications.
+* 💡 Core concepts & strengths: **OOP, DSA, DBMS, REST APIs, JWT, Authentication, Authorization**.
+
+---
+
+### Tech Stack & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,react,spring,mysql,git,github,docker" alt="Tech Stack Icons" />
+</p>
+
+* **Programming Languages:** Java
+* **Frontend:** HTML, CSS, JavaScript, React
+* **Backend:** Java, Spring Boot, REST APIs
+* **Databases:** MySQL, H2
+* **Tools & Platforms:** Git, GitHub, Docker
+
+---
+
+### Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/swati-swaraj-b8a97b31a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:swatiswaraj709@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://leetcode.com/u/Swati_Swaraj/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" /></a>
+</p>
